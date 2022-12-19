@@ -2,7 +2,6 @@
 
 🎯 Seeking a career in Computer Science, Software & Web Development<br>💫 Currently exploring web development with modern technologies<br>📚 Computer Science Graduate
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Fahmeed Mahmud Alvee](https://www.facebook.com/fmahmud.alvee/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/Fahmeed Mahmud Alvee](https://www.linkedin.com/in/f-mahmud2-alvee/)](https://www.linkedin.com/in/f-mahmud2-alvee/)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fmahmudalvee) 
 
@@ -13,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahmudalvee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudalvee&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahmudalvee&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
