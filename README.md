@@ -1,7 +1,6 @@
 ## Hi👋 I am Fahmeed Mahmud Alvee
 
-# 💫 About Me:
-🎯 Seeking a career in Computer Science, Software & Web Development<br>🧩 Currently exploring web development with modern technologies<br>📚 Computer Science Graduate
+🎯 Seeking a career in Computer Science, Software & Web Development<br>💫 Currently exploring web development with modern technologies<br>📚 Computer Science Graduate
 
 
 ## 🌐 Socials:
