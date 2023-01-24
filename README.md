@@ -1,6 +1,6 @@
 ## Hi👋 I am Fahmeed Mahmud Alvee
 
-🎯 Seeking a career in Computer Science/IT, Software/Web Development<br>💫 Currently exploring web development with modern technologies<br>📚 Computer Science Graduate
+🎯 Seeking a career in CS/IT, Software/Web Development<br>💫 Currently exploring web development with modern technologies<br>📚 Computer Science Graduate
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Fahmeed Mahmud Alvee](https://www.facebook.com/fmahmud.alvee/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/Fahmeed Mahmud Alvee](https://www.linkedin.com/in/f-mahmud2-alvee/)](https://twitter.com/Fmahmudalvee)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/Fmahmudalvee](https://twitter.com/Fmahmudalvee)) 
